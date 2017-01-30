@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-public class homework {
+public class alphabeta {
 	
 	static int bvalue[][];
 	static char bpos[][];
